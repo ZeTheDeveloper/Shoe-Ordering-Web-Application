@@ -1,0 +1,43 @@
+.paymentMethod,
+.shipmentMethod,
+.paymentCartItems{
+    background-color: #E4E4E4;
+    padding-bottom: 1.5em;
+    font-size: 20px;
+}
+
+.shipmentMethod{
+    background-color: #E4E4E4;
+    padding-bottom: 1.5em;
+    font-size: 20px;
+}
+
+div > input.custom-control-input{
+    margin-left:20px;
+}
+
+div.paymentOptions > div > img{
+    width:30px;
+    border:0px;
+    margin-right:10px;
+}
+
+.mb-3:not(div.shipmentMethod.mb-3){
+    width:240px;
+    margin-left:30px;
+}
+
+.paymentRadioBox,
+div.shipmentMethod.mb-3{
+    margin-left:30px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button  {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+div.col-sm-3 > p{
+    margin-top:10px;
+}

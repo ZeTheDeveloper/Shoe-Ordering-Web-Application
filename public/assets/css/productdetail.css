@@ -1,0 +1,60 @@
+/* Basic Styling */
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+  }
+
+  .left-column {
+    width: 65%;
+    position: flex;
+    float:left;
+  }
+   
+  .right-column {
+    width: 35%;
+    margin-top: 60px;
+    position:flex;
+    float: right;
+  }
+
+  .left-column img {
+    width: 75%;
+    position: flex;
+    left: 0;
+    top: 0;
+  }
+
+  .product-description {
+    border-bottom: 1px solid #E1E8EE;
+    margin-bottom: 20px;
+  }
+
+  .product-description h2 {
+    font-weight: 300;
+    font-size: 48px;
+    color: #43484D;
+    letter-spacing: -2px;
+  }
+
+  .product-description p {
+    font-size: 16px;
+    font-weight: 300;
+    color: #86939E;
+    line-height: 24px;
+  }
+
+  .cart-btn {
+  display: inline-block;
+  background-color: #ff2832;
+  border-radius: 6px;
+  font-size: 16px;
+  color: #FFFFFF;
+  text-decoration: none;
+  padding: 12px 30px;
+  transition: all .5s;
+}
+
+.cart-btn:hover {
+  background-color: #fa6969;
+}

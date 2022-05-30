@@ -1,0 +1,33 @@
+div#cart-items,
+div#payment-container {
+    background-color: #E4E4E4;
+    padding: 1.5em;
+}
+
+h5#PaymentLabel {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+div.col-sm-6.align-self-end {
+    font-size: 1.1em;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .fade {
+        transition: none;
+    }
+}
+
+a#proceedCheckout:hover{
+    background-color: azure;
+}
+
+a#continueShopping:hover{
+    background-color: #212529;
+    color:white;
+}
+
+div#empty-cart-items{
+    text-align: center;
+}

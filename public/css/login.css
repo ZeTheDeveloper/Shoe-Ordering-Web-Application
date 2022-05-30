@@ -1,0 +1,39 @@
+.text-align-center {
+    text-align: center;
+}
+
+.form-check {
+    padding-left: 12px !important;
+    padding-top: 6px;
+    vertical-align: middle;
+}
+
+    .form-check .form-check-input {
+        margin-left: 0em !important;
+    }
+
+.form-check-label {
+    padding-left: 12px;
+}
+
+.forgot-password {
+    text-align: end;
+}
+
+.login-button {
+    width: 50%;
+}
+
+.pad-top-13 {
+    padding-top: 13px;
+}
+
+.form-group {
+    padding-bottom: 20px;
+}
+
+@media (min-width: 576px) {
+    .container-sm, .container {
+        max-width: 100% !important;
+    }
+}

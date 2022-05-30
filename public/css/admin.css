@@ -1,0 +1,40 @@
+img{
+    height: 100%;
+}
+
+.card-header {
+    font-size: 15px;
+}
+
+.card-body{
+    font-size: 15px;
+}
+
+.create-button{
+    text-align: end;
+}
+
+.btn {
+    font-size: 15px!important;
+}
+
+.modal{
+    font-size: 15px;
+}
+
+.modal-title{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.modal-dialog {
+    max-width: 80% !important;
+}
+
+.text-align-end{
+    text-align: end;
+}
+
+input {
+    font-size: 15px !important;
+}

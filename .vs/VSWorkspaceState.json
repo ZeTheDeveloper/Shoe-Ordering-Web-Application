@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Exceptions",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Controllers\\Auth",
+    "\\database",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\components",
+    "\\routes"
+  ],
+  "SelectedNode": "\\database\\.Tables_to_put_into_phpMyAdmin\\orders.sql",
+  "PreviewInSolutionExplorer": false
+}
