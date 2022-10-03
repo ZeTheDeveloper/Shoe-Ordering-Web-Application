@@ -41,3 +41,18 @@ This project is done using Laravel framework with Model-View-Controller Architec
 
 
 ### Admin Module
+
+1. Manage Product
+
+![image](https://user-images.githubusercontent.com/98612606/193648010-dc988856-aeea-4e8a-84f9-f480821c4f51.png)
+Admins can create a new product, edit product and delete product of the web application.
+
+
+2. Manage Orders
+
+![image](https://user-images.githubusercontent.com/98612606/193648165-e765c317-6287-4e64-bbab-1597072680e3.png)
+
+![image](https://user-images.githubusercontent.com/98612606/193649001-90565c8d-7946-4c5e-bfc8-4b280b4283b6.png)
+
+
+Admins can view all orders, and cancel orders upon reasonable requests by customers.
